@@ -1,6 +1,6 @@
 /************* Main Js File ************************
     Template Name: DHG International
-    Author: Themescare
+    Author: DGH
     Version: 1.0
     Copyright 2019
 *************************************************************/
