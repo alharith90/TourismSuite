@@ -184,25 +184,7 @@ JS INDEX
 			nav: true,
 			dots: true,
 			autoplayTimeout: 6000,
-			autoplaySpeed: 1200,
-			navText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
-			responsive: {
-				0: {
-					items: 1
-				},
-				480: {
-					items: 1
-				},
-				600: {
-					items: 3
-				},
-				1000: {
-					items: 5
-				},
-				1200: {
-					items: 5
-				}
-			}
+			autoplaySpeed: 1200
 		});
 
 
